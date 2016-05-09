@@ -1,0 +1,14 @@
+{
+  "name": "language-jflex",
+  "version": "1.0.0",
+  "description": "JFlex syntax highlighting for Atom (based on the tmbundle from https://github.com/jflex-de/jflex.tmbundle.git)",
+  "keywords": [
+  ],
+  "repository": "https://github.com/mweberaw/atom-language-jflex",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
